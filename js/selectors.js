@@ -1,6 +1,6 @@
 
 function paragraphSelector() {
-  return $('p')[0].innerHTML
+  return $('p')
 }
 
 $("img:last" , function() {
