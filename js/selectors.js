@@ -10,3 +10,4 @@ $('#baby-ninja', function() {
   return "baby-ninja"
 });
 
+$()
