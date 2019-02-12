@@ -4,5 +4,5 @@ $("P" , function() {
 
 $("img:last" , function() {
   return "img:last"
-}
-  )
+});
+
