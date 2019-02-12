@@ -1,8 +1,7 @@
 
-function paragraphSelector () {
-  $("p")
-  return "P"
-}
+$("P" , paragraphSelector() {
+  return "P";
+});
 
 $("img:last" , function() {
   return "img:last"
