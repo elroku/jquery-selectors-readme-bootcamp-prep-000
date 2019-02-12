@@ -1,5 +1,6 @@
 
-$('p')[0].innerHTML , paragraphSelector() {
+function  paragraphSelector() {
+  $('p')[0].innerHTML
   return "P";
 }
 
