@@ -1,4 +1,4 @@
-$("P" , function() {
+$("P" , paragraphSelector() {
   return "P";
 });
 
