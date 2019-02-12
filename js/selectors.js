@@ -1,3 +1,3 @@
-$("P" , funciton() {
+$("P" , function() {
   return "P";
 });
