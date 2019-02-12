@@ -1,7 +1,7 @@
 
-$('p', function paragraphSelector() {
-  return 'p'[0].innerHTML
-})
+function paragraphSelector() {
+  return $('p')
+}
 
 $("img:last" , function() {
   return "img:last"
