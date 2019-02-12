@@ -1,4 +1,3 @@
 $("P" , funciton() {
-  return "P"
-}
-  )
+  return "P";
+});
