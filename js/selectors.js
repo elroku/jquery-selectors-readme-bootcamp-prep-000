@@ -8,5 +8,5 @@ $("img:last" , function() {
 
 $('#baby-ninja', function() {
   return "baby-ninja"
-}
-)
+});
+
