@@ -13,3 +13,7 @@ $('#baby-ninja', function() {
 $(".pics" , function () {
   return "pics"
 });
+
+$("#pic-list" , function () {
+  return "pic-list"
+});
