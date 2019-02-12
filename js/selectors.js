@@ -1,6 +1,10 @@
 $("P" , paragraphSelector() {
   return "P";
 });
+function paragraphSelector () {
+  $("p")
+  return "P"
+}
 
 $("img:last" , function() {
   return "img:last"
