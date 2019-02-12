@@ -15,6 +15,6 @@ function divSelector() {
   return $(".pics")
 }
 
-$("#pic-list")function firstListItem() {
-  return "pic-list"
-});
+function firstListItem() {
+  return $("#pic-list")
+}
