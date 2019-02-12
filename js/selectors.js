@@ -1,7 +1,7 @@
 
 function  paragraphSelector() {
   $('p').innerHTML
-  return "P";
+  return "p";
 }
 
 $("img:last" , function() {
