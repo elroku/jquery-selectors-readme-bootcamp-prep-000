@@ -3,11 +3,11 @@ function paragraphSelector() {
   return $('p')
 }
 
-function ninjaBabySelector() {
+function lastImageSelector() {
   return $("img:last")
 }
 
-$('#baby-ninja', function() {
+$('#baby-ninja'), function() {
   return "baby-ninja"
 });
 
